@@ -72,7 +72,7 @@ Logistic regression (to be added)
 
 ### How to Run
 
-Create a sprint dataset using the same variables seen under 'Dataset' (add or drop variables based on your interests, and update the load_data function appropriately). Clone this repository. Install the required libraries seen under 'Methods'. Open ipynb file in Jupyter Notebook.
+Create a sprint dataset using the same variables seen under 'Dataset' (add or drop variables based on your interests, and update the load_data function appropriately). Install the required libraries seen under 'Methods'. Open the sprints_ml_dummy_git ipynb file in Jupyter Notebook.
 Run the notebook cells sequentially, replacing the file name to your own dataset, changing the cutoffs to times that would only occur due to injury for you, and
 changes to the load_data function based on the datatypes in your dataset.
 
