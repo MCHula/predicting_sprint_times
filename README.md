@@ -1,5 +1,7 @@
 # Sprint Performance Analysis
 
+I consent to the code in this repository being used for personal and academic use.
+
 ### Project Overview
 
 This project investigates the relationship between variables, currently wind conditions, and sprint performance, focusing on 100m and 200m.
