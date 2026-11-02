@@ -80,7 +80,8 @@ Install the required libraries seen under 'Methods'
 
 Open ipynb file in Jupyter Notebook.
 
-Run the notebook cells sequentially, replacing the file name to your own dataset.
+Run the notebook cells sequentially, replacing the file name to your own dataset, changing the cutoffs to times that would only occur due to injury for you, and
+changes to the load_data function based on the datatypes in your dataset.
 
 ### Results and Conclusions
 
