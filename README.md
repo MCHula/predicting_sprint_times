@@ -77,6 +77,7 @@ Run the notebook cells sequentially, replacing the file name to your own dataset
 changes to the load_data function based on the datatypes in your dataset.
 
 ### Results and Conclusions
+# note: the following results were from my own dataset, not the dummy dataset stored in this repository
 
 With my own, self-collected sprinting dataset I found wind to be a statistically significant predictor of 100m sprint time (P < 0.005, R-squared 0.58),
 with only one race (after removing times caused by injury) being a significant outlier based on Cooks Distance. All model assessment graphs suggested wind
