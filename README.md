@@ -5,7 +5,9 @@ I consent to the code in this repository being used for personal and academic us
 ### Project Overview
 
 This project investigates the relationship between variables, currently wind conditions, and sprint performance, focusing on 100m and 200m.
-Using Python, I explored sprint performances, applied statistical analysis and built regression models to investigate how wind speed influences race times.
+Using Python, I explored sprint performances, applied statistical analysis and built regression models to investigate how wind speed influences race times. 
+
+Note: The repository and ipynb file contain a dummy dataset instead of the dataset I used for my own analysis for privacy and anonymity. 
 
 ### Objectives
 
